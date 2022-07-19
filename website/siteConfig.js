@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: '日本ディスカバリー', // Title for your website.
+  title: 'nihon-discovery', // Title for your website.
   tagline: 'Zohoキャンペーンメール設定マニュアル',
   url: 'https://topicpath.github.io/', // Your website URL
   baseUrl: '/nd-manual-2/', // Base URL for your project */

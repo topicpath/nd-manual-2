@@ -7,6 +7,9 @@ sidebar_label: Example Page
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 
 ## Lorem
+![picture 6](../images/07136c309c329a2bcee6b65adb8e6608daca1d5f225e3941426de4a0cdfbadf7.jpeg)  
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
 
